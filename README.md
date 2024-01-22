@@ -1,2 +1,2 @@
-# ruspberry-jupyter-config
-Automatism to automatically generate and configure everything you need to share in your network jupyter web interface
+# Ruspberry automatic configuration
+To automatically configure ruspberry just download the sh file and run it 

@@ -4,7 +4,7 @@ sudo ufw allow 22
 sudo ufw allow 8888
 sudo ufw status
 
-pip install jupyter
+pip install -U jupyter
 jupyter notebook --generate-config
 
 if test -e /home/pi/.jupyter/jupyter_notebook_config.py; then
